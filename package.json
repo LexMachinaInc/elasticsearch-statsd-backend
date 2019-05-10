@@ -28,7 +28,8 @@
     "node": ">=6"
   },
   "dependencies": {
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.3.0",
+    "base-64": "^0.1.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
